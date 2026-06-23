@@ -104,11 +104,11 @@ Tracks parking status and vehicle information.
 
 ## Author
 
-Amulya Shamkumar Tikare
-Bachelor of Computer Science Engineering
+Kajal Sardar Sankapal
+Bachelor of Computer Science Engineering (AIML)
 D. Y. Patil Agriculture and Technical University
 
-•	Git Hub Link: https://github.com/amulya192334/smart-parking-system-for-smart-cities
-•	Demo Link: https://drive.google.com/file/d/1Wt4ETBiNhuGebMiOWAm9MhDK9dk-D22S/view?usp=drivesdk
+•	Git Hub Link: https://github.com/kajalsankapal/Smart-Parking-System-For-Smart-Cities
+•	Demo Link: https://drive.google.com/file/d/1I858z71mr_EjBcA-ziVpKOaGMnfbfikp/view?usp=sharing
 
 
